@@ -1,0 +1,9 @@
+Überblick Aufgabenverteilung
+
+- Beteiligungen an den Präsentationsfolien ist in den Kommentaren der Folien jeweils unten vermerkt.
+
+Code:
+
+Data Preparation: Mayara Anastacio Matavela, Sepehr Arjmandikia, Leo Bonitz
+Modeling & Evaluation Lagesegment: Leo Bonitz
+Preissegment: Sepehr Arjmandikia
