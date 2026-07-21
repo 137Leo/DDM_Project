@@ -8,3 +8,6 @@ Data Preparation: Mayara Anastacio Matavela, Sepehr Arjmandikia, Leo Bonitz
 Modeling & Evaluation Lagesegment: Leo Bonitz
 Modeling KMeans Lagesegment: Mayara Anastacio Matavela
 Preissegment: Sepehr Arjmandikia
+
+Quelle der Train-Center Daten: https://www5.kingcounty.gov/sdc/?Layer=transit_centers_point
+Quelle des Haushaltseinkommen zu finden in der CSV-Datei
