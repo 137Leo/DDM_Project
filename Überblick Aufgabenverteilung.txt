@@ -6,4 +6,5 @@ Code:
 
 Data Preparation: Mayara Anastacio Matavela, Sepehr Arjmandikia, Leo Bonitz
 Modeling & Evaluation Lagesegment: Leo Bonitz
+Modeling KMeans Lagesegment: Mayara Anastacio Matavela
 Preissegment: Sepehr Arjmandikia
